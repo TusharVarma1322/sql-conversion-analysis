@@ -383,8 +383,9 @@ sql-conversion-analysis/
 ## 👤 Author
 
 **Tushar Varma**
-- GitHub: [@TusharVarma077](https://github.com/TusharVarma077)
+- GitHub: [@TusharVarma1322](https://github.com/TusharVarma1322)
 
 ---
+
 
 *Project completed:  December 2025*
