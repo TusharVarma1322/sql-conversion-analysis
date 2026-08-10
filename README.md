@@ -4,7 +4,7 @@
   <img src="images/venn_diagram.png" alt="Data Relationship - Venn Diagram" width="500">
 </p>
 
-## 📋 Table of Contents
+## 📋 Table of Contents:
 - [Project Overview](#-project-overview)
 - [Business Questions](#-business-questions)
 - [Dataset Description](#-dataset-description)
