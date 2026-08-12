@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Project Overview
+## 🎯 Project Overview:
 
 This project analyzes the **free-to-paid conversion rate** of students on the 365 Data Science platform. The goal is to understand user behavior from registration through engagement to subscription purchase, providing actionable business insights. 
 
