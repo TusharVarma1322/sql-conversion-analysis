@@ -29,7 +29,7 @@ This project analyzes the **free-to-paid conversion rate** of students on the 36
 
 ---
 
-## ❓ Business Questions
+## ❓ Business Questions:
 
 This analysis answers the following critical business questions:
 
