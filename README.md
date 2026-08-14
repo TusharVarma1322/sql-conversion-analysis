@@ -42,7 +42,7 @@ This analysis answers the following critical business questions:
 
 ---
 
-## 🗄️ Dataset Description
+## 🗄️ Dataset Description:
 
 ### Database:  `db_course_conversions`
 
