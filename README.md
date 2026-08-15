@@ -54,7 +54,7 @@ The analysis uses three interconnected tables:
 | `student_engagement` | Records of lecture viewing activity | `student_id`, `date_watched` |
 | `student_purchases` | Purchase transaction records | `student_id`, `date_purchased` |
 
-### Data Relationships
+### Data Relationships:
 
 The Venn diagram above illustrates how the three tables relate:
 
