@@ -66,7 +66,7 @@ The Venn diagram above illustrates how the three tables relate:
 
 ---
 
-## 🔬 Methodology
+## 🔬 Methodology:
 
 ### Approach Overview
 
