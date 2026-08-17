@@ -117,7 +117,7 @@ The Venn diagram above illustrates how the three tables relate:
 
 ---
 
-## 💻 SQL Solution Approach
+## 💻 SQL Solution Approach:
 
 ### Task 1: Creating the Subquery
 
