@@ -216,7 +216,7 @@ FROM
 | **av_reg_watch** | **3.42 days** | On average, students take ~3.5 days to watch their first lecture after registering |
 | **av_watch_purch** | **26.25 days** | On average, students take ~26 days from first lecture to purchase |
 
-### Additional Statistics (from Interpretation)
+### Additional Statistics (from Interpretation):
 
 | Metric | Mean | Median | Mode |
 |--------|------|--------|------|
